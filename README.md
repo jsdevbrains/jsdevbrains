@@ -4,25 +4,25 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%7C+Cloud+%7C+Software+Products;Innovation+%7C+Mentorship;Building+Products.+Empowering+Innovation.)](https://git.io/typing-svg)
+### AI &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; Software Products &nbsp;·&nbsp; Innovation &nbsp;·&nbsp; Mentorship
+
+*A Product Engineering & Innovation Division of JSDevBrains Digital Private Limited*
 
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-jsdevbrains.com-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jsdevbrains.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JSDevBrains-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/jsdevbrains)
 [![GitHub](https://img.shields.io/badge/GitHub-jsdevbrains-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsdevbrains)
-[![Instagram](https://img.shields.io/badge/Instagram-@jsdevbrains-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jsdevbrains)
+[![Instagram](https://img.shields.io/badge/Instagram-%40jsdevbrains-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jsdevbrains)
 [![Facebook](https://img.shields.io/badge/Facebook-DevBrains-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/DevBrains/61591089923386)
+
+<br/>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💡 Who We Are
-
-</div>
+## 💡 Who We Are
 
 DevBrains is a **product-first engineering company** specializing in AI innovation, cloud transformation, and intelligent software. We partner with startups, enterprises, and institutions to turn ideas into scalable digital products — and mentor the next generation of builders along the way.
 
@@ -107,18 +107,18 @@ Evolved from the JSQUARE IT Development Center, we operate at the intersection o
 
 <div align="center">
 
-![Students](https://img.shields.io/badge/🎓_Students-6C63FF?style=flat-square)
-![Graduates](https://img.shields.io/badge/📜_Fresh_Graduates-00C896?style=flat-square)
-![Interns](https://img.shields.io/badge/💼_Internship_Candidates-FF6B6B?style=flat-square)
-![Founders](https://img.shields.io/badge/🚀_Startup_Founders-F7931E?style=flat-square)
-![Developers](https://img.shields.io/badge/💻_Software_Developers-0A66C2?style=flat-square)
-![Professionals](https://img.shields.io/badge/🌟_Working_Professionals-E4405F?style=flat-square)
+[![Students](https://img.shields.io/badge/Students-6C63FF?style=flat-square&logoColor=white)](https://www.jsdevbrains.com)
+[![Fresh Graduates](https://img.shields.io/badge/Fresh%20Graduates-00C896?style=flat-square&logoColor=white)](https://www.jsdevbrains.com)
+[![Internship Candidates](https://img.shields.io/badge/Internship%20Candidates-FF6B6B?style=flat-square&logoColor=white)](https://www.jsdevbrains.com)
+[![Startup Founders](https://img.shields.io/badge/Startup%20Founders-F7931E?style=flat-square&logoColor=white)](https://www.jsdevbrains.com)
+[![Software Developers](https://img.shields.io/badge/Software%20Developers-0A66C2?style=flat-square&logoColor=white)](https://www.jsdevbrains.com)
+[![Working Professionals](https://img.shields.io/badge/Working%20Professionals-E4405F?style=flat-square&logoColor=white)](https://www.jsdevbrains.com)
 
 <br/>
 
-`Software Engineering` · `System Design` · `Cloud Computing` · `AI & Machine Learning`
+`Software Engineering` &nbsp;·&nbsp; `System Design` &nbsp;·&nbsp; `Cloud Computing` &nbsp;·&nbsp; `AI & Machine Learning`
 
-`Mobile Development` · `Product Development` · `Career Growth` · `Startup Building`
+`Mobile Development` &nbsp;·&nbsp; `Product Development` &nbsp;·&nbsp; `Career Growth` &nbsp;·&nbsp; `Startup Building`
 
 </div>
 
@@ -126,13 +126,9 @@ Evolved from the JSQUARE IT Development Center, we operate at the intersection o
 
 ## 🌟 Mission & Vision
 
-<div align="center">
-
 | 🎯 Mission | 🌍 Vision |
 |:---|:---|
 | Empower businesses, startups, institutions, and aspiring developers through innovative technology solutions, intelligent products, and expert mentorship. | Become a globally recognized technology innovation company delivering world-class products, AI solutions, and transformative digital experiences. |
-
-</div>
 
 ---
 
