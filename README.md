@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DevBrains&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20Innovation%20Meets%20Intelligence&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C896,100:FF6B6B&height=220&section=header&text=DevBrains&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Innovation%20Meets%20Intelligence&descAlignY=60&descSize=18&descColor=ffffff" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=AI+%7C+Cloud+%7C+Software+Products+%7C+Mentorship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%7C+Cloud+%7C+Software+Products;Innovation+%7C+Mentorship;Building+Products.+Empowering+Innovation.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_Website-jsdevbrains.com-6C63FF?style=for-the-badge&logoColor=white)](https://www.jsdevbrains.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/jsdevbrains)
+[![Website](https://img.shields.io/badge/Website-jsdevbrains.com-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jsdevbrains.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JSDevBrains-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/jsdevbrains)
 [![GitHub](https://img.shields.io/badge/GitHub-jsdevbrains-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsdevbrains)
 [![Instagram](https://img.shields.io/badge/Instagram-@jsdevbrains-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jsdevbrains)
 [![Facebook](https://img.shields.io/badge/Facebook-DevBrains-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/DevBrains/61591089923386)
-
-<br/>
 
 </div>
 
@@ -22,42 +20,27 @@
 
 <div align="center">
 
-## 🧠 Who We Are
+### 💡 Who We Are
 
 </div>
 
 DevBrains is a **product-first engineering company** specializing in AI innovation, cloud transformation, and intelligent software. We partner with startups, enterprises, and institutions to turn ideas into scalable digital products — and mentor the next generation of builders along the way.
 
-> 💡 *"Where Innovation Meets Intelligence"*
+> *"Where Innovation Meets Intelligence"*
 
 Evolved from the JSQUARE IT Development Center, we operate at the intersection of deep engineering craft and real-world product thinking.
-
-<br/>
 
 ---
 
 ## 🚀 Core Services
 
-<div align="center">
-
-| 🤖 AI & Automation | 💻 Software Products | 🌐 Web Dev | 📱 Mobile |
-|:---:|:---:|:---:|:---:|
-| Custom AI Agents | SaaS Platforms | React.js | Flutter |
-| LLM Applications | Enterprise Apps | Next.js | Android |
-| RAG Systems | CRM & ERP | TypeScript | iOS |
-| AI Chatbots | API Development | PWAs | Cross-Platform |
-| Workflow Automation | System Modernization | Dashboards | Hybrid Apps |
-
-| ☁️ Cloud & DevOps | 📊 Data & Analytics | 🎓 Mentorship |
-|:---:|:---:|:---:|
-| Microsoft Azure | Power BI | Students & Graduates |
-| CI/CD Pipelines | Business Intelligence | Startup Founders |
-| Docker & Kubernetes | Data Visualization | Working Professionals |
-| Infrastructure as Code | Reporting Solutions | Career Growth |
-
-</div>
-
-<br/>
+| 🤖 AI & Automation | 💻 Software Products | 🌐 Web Dev | 📱 Mobile | ☁️ Cloud & DevOps | 📊 Analytics |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Custom AI Agents | SaaS Platforms | React.js | Flutter | Microsoft Azure | Power BI |
+| LLM Applications | Enterprise Apps | Next.js | Android | CI/CD Pipelines | Business Intel |
+| RAG Systems | CRM & ERP | TypeScript | iOS | Docker & K8s | Visualization |
+| AI Chatbots | API Development | PWAs | Cross-Platform | Terraform | Reporting |
+| Workflow Automation | System Modernization | Dashboards | Hybrid Apps | Infra as Code | Dashboards |
 
 ---
 
@@ -84,6 +67,7 @@ Evolved from the JSQUARE IT Development Center, we operate at the intersection o
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=for-the-badge&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Cloud & DevOps**
@@ -103,8 +87,6 @@ Evolved from the JSQUARE IT Development Center, we operate at the intersection o
 
 </div>
 
-<br/>
-
 ---
 
 ## 🎯 Our Products
@@ -114,12 +96,10 @@ Evolved from the JSQUARE IT Development Center, we operate at the intersection o
 | 🧠 DevBrains Mentor Platform | 🛒 BuyAndSell | 🏘️ NeighbourPro |
 |:---:|:---:|:---:|
 | AI-powered mentorship ecosystem | Smart marketplace platform | Community service marketplace |
-| Connects students & professionals | AI-powered recommendations | Local businesses & customers |
-| with industry experts | Secure transactions | Hyperlocal connections |
+| Students · Developers · Professionals | AI-powered recommendations | Local businesses & customers |
+| Industry expert connections | Secure transactions | Hyperlocal connections |
 
 </div>
-
-<br/>
 
 ---
 
@@ -127,25 +107,20 @@ Evolved from the JSQUARE IT Development Center, we operate at the intersection o
 
 <div align="center">
 
-**Who We Mentor**
-
-![Students](https://img.shields.io/badge/🎓_Students-6C63FF?style=flat-square&logoColor=white)
-![Graduates](https://img.shields.io/badge/📜_Fresh_Graduates-00C896?style=flat-square&logoColor=white)
-![Interns](https://img.shields.io/badge/💼_Internship_Candidates-FF6B6B?style=flat-square&logoColor=white)
-![Founders](https://img.shields.io/badge/🚀_Startup_Founders-F7931E?style=flat-square&logoColor=white)
-![Developers](https://img.shields.io/badge/💻_Software_Developers-0A66C2?style=flat-square&logoColor=white)
-![Professionals](https://img.shields.io/badge/🌟_Working_Professionals-E4405F?style=flat-square&logoColor=white)
+![Students](https://img.shields.io/badge/🎓_Students-6C63FF?style=flat-square)
+![Graduates](https://img.shields.io/badge/📜_Fresh_Graduates-00C896?style=flat-square)
+![Interns](https://img.shields.io/badge/💼_Internship_Candidates-FF6B6B?style=flat-square)
+![Founders](https://img.shields.io/badge/🚀_Startup_Founders-F7931E?style=flat-square)
+![Developers](https://img.shields.io/badge/💻_Software_Developers-0A66C2?style=flat-square)
+![Professionals](https://img.shields.io/badge/🌟_Working_Professionals-E4405F?style=flat-square)
 
 <br/>
 
-**What We Teach**
+`Software Engineering` · `System Design` · `Cloud Computing` · `AI & Machine Learning`
 
-`Software Engineering` `System Design` `Cloud Computing` `AI & Machine Learning`
-`Mobile Development` `Product Development` `Career Growth` `Startup Building`
+`Mobile Development` · `Product Development` · `Career Growth` · `Startup Building`
 
 </div>
-
-<br/>
 
 ---
 
@@ -159,12 +134,10 @@ Evolved from the JSQUARE IT Development Center, we operate at the intersection o
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Building%20Products.%20Empowering%20Innovation.%20Creating%20Impact.&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:00C896,100:6C63FF&height=130&section=footer&text=Building%20Products.%20Empowering%20Innovation.%20Creating%20Impact.&fontSize=15&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
